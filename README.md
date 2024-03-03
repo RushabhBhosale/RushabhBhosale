@@ -1,5 +1,5 @@
 # 💫 About Me:
-Certainly, here's the updated version:<br><br># About Me<br><br>## Hello, I'm Rushabh Bhosale<br><br>### Frontend Developer | Open-Source Enthusiast | MERN Stack Enthusiast
+## Hello, I'm Rushabh Bhosale<br><br>### Frontend Developer | Open-Source Enthusiast | MERN Stack Enthusiast
 
 
 ## 🌐 Socials:
