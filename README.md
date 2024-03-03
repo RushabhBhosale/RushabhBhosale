@@ -1,16 +1,18 @@
-### Hi there 👋
+# 💫 About Me:
+Certainly, here's the updated version:<br><br># About Me<br><br>## Hello, I'm Rushabh Bhosale<br><br>### Frontend Developer | Open-Source Enthusiast | MERN Stack Enthusiast<br><br>---<br><br>## Summary<br><br>I am a passionate Frontend Developer with extensive experience in HTML, CSS, and JavaScript, specializing in building dynamic and responsive user interfaces. I am proficient in using Next.js, React, and Redux to create robust and scalable web applications. Additionally, I am well-versed in popular CSS frameworks like Bootstrap, SCSS, and Tailwind CSS, ensuring that my designs are both visually appealing and functional.<br><br>I am actively seeking opportunities to collaborate on MERN Stack projects, where I can leverage my skills and contribute to innovative solutions that make a positive impact.<br><br>---<br><br>## Skills<br><br>- **Frontend Development**: HTML, CSS, JavaScript, React, Redux, Next.js, SCSS, Tailwind CSS, Bootstrap<br>- **Backend Development**: Node.js, Express.js, MongoDB, Mongoose<br>- **Tools & Technologies**: Git, GitHub, VS Code, npm, Yarn<br>- **UI/UX Design**: Figma, Adobe XD<br>- **Agile Methodologies**: Scrum, Kanban<br><br>---<br><br>## Certifications<br><br>### Frontend Development Certification<br>- **Issuing Organization**: Awdiz<br>- **Date**: Jan 2024<br><br>---<br><br>## Contact<br><br>- **Email**: bhosalerushabh0@gmail.com<br>- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rushabh-bhosale-frontend-developer/)<br>- **GitHub**: [GitHub Profile](https://github.com/RushabhBhosale)<br>- **Instagram**: [Instagram Profile](https://www.instagram.com/r_ushabh_/)<br>- **Phone**: +91 9137996317<br><br>---<br><br>## Looking to Collaborate?<br><br>I am actively seeking opportunities to collaborate on MERN Stack projects. If you have an exciting project or idea that you think I can contribute to, feel free to reach out to me. Let's create something amazing together!<br><br>---<br><br>## Let's Connect!<br><br>If you are interested in collaborating on a project, discussing technology, or just want to connect, don't hesitate to reach out to me. I am always open to new opportunities and conversations.<br><br>Thank you for taking the time to read my GitHub profile, and I look forward to connecting with you soon!<br><br>---<br><br># Rushabh Bhosale
 
-<!--
-**RushabhBhosale/RushabhBhosale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r_ushabh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rushabh-bhosale-frontend-developer) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RushabhBhosale&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RushabhBhosale&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RushabhBhosale&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=RushabhBhosale&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
