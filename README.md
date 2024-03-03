@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Hello, I'm Rushabh Bhosale
-### Frontend Developer | Open-Source Enthusiast | MERN Stack Enthusiast
+### Frontend Developer | React Js / Next Js Developer | MERN Stack Developer
 
 
 ## 🌐 Socials:
