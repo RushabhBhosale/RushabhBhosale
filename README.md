@@ -1,5 +1,5 @@
 # Hello, I'm Rushabh Bhosale
-### Frontend Developer | React Js / Next Js Developer | MERN Stack Developer
+### Fullstack Developer | React Js / Next Js Developer | MERN Stack Developer
 
 ## 💼 [Portfolio](https://rushabh-bhosale.netlify.app/)
 
