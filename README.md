@@ -1,7 +1,7 @@
 # Hello, I'm Rushabh Bhosale
 ### Fullstack Developer | React Js / Next Js Developer | MERN Stack Developer
 
-## 💼 [Portfolio](https://rushabh.in/)
+## 💼 [Portfolio](https://rushabh-murex.vercel.app/home)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r_ushabh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rushabh-bhosale-frontend-developer) 
 
